@@ -5,8 +5,14 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "RBertolli\\openHBot\": "src/"
+            "RBertolli\\openHBot\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "Rafael Bertolli",
+            "email": "opensource@bertolli.com.br"
+        }
+    ],
     "require": {}
 }
