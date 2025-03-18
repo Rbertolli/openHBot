@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "RBertolli\openHBot\": "src/"
+            "RBertolli\\openHBot\": "src/"
         }
     },
     "require": {}
