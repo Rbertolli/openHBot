@@ -1,0 +1,12 @@
+{
+    "name": "rbertolli/openhbot",
+    "description": "Pacote open source para o projeto openHBot",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RBertolli\openHBot\": "src/"
+        }
+    },
+    "require": {}
+}
